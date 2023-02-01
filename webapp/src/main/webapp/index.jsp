@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning.  Welcome To NCPL Azure DevOps. 
     Thank you BALA SIR  <h1>
-<img width="1520" height="240" src="https://erwinstaal.nl/images/azdoscaleset.png">
+<img width="520" height="270" src="https://erwinstaal.nl/images/azdoscaleset.png">
   
 </form>
