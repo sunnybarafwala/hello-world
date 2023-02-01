@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning.  Welcome To NCPL Azure DevOps. 
-     Thank you BALA SIR <h1>
+      <h1>
 
   
 </form>
