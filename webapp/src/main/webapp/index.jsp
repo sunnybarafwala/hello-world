@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Change  Welcome To NCPL Azure DevOps Class<h1>
+   <h1> Thankyou, Happy Learning.  Welcome To NCPL Azure DevOps. 
+     Thank you BALA SIR <h1>
 
   
 </form>
